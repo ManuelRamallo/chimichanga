@@ -1,6 +1,0 @@
-Totus
-<<<<<<< HEAD
-LERELERELE LERE LERE
-=======
-jodeputa
->>>>>>> c40856f8f0182288b229e904826b9d1a91e40d82
